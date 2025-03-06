@@ -1,0 +1,9 @@
+# PT站点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,ultrahd.net
+DOMAIN-SUFFIX,ptlover.cc
+DOMAIN-SUFFIX,icc2022.com

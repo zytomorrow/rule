@@ -1,0 +1,7 @@
+# 一些特殊的需要代理的站点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,metacubex.o
+DOMAIN-SUFFIX,buondua.com
+DOMAIN-SUFFIX,hanguo33.co
+DOMAIN-SUFFIX,lscr.io
