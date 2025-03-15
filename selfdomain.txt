@@ -1,0 +1,14 @@
+# 自用的站点-无需代理
+
+# 域名后缀匹配
+DOMAIN,rs4b.zytomorrow.top
+DOMAIN,n100.zytomorrow.top
+DOMAIN,service.zytomorrow.top
+DOMAIN,homepage.zytomorrow.top
+DOMAIN,mainrouter.zytomorrow.top
+DOMAIN,homepage.zytomorrow.top
+DOMAIN,webdav.zytomorrow.top
+DOMAIN,qinglong.zytomorrow.top
+DOMAIN,reference.zytomorrow.top
+DOMAIN,easytier.zytomorrow.top
+DOMAIN,onedrive_webhook.zytomorrow.top
