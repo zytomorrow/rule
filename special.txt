@@ -4,4 +4,7 @@
 DOMAIN-SUFFIX,metacubex.o
 DOMAIN-SUFFIX,buondua.com
 DOMAIN-SUFFIX,hanguo33.co
+
+# docker
 DOMAIN-SUFFIX,lscr.io
+DOMAIN-SUFFIX,ghcr.io
