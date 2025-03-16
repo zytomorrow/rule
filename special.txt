@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,hanguo33.co
 # docker
 DOMAIN-SUFFIX,lscr.io
 DOMAIN-SUFFIX,ghcr.io
+
+# HA
+DOMAIN-SUFFIX,home-assistant.io	
