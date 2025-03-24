@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,hanguo33.co
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
 
+# 低端影视
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.pro
+
 # docker
 DOMAIN-SUFFIX,lscr.io
 DOMAIN-SUFFIX,ghcr.io
