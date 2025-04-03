@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,ghcr.io
 
 # HA
 DOMAIN-SUFFIX,home-assistant.io	
+
+# 小众软件
+DOMAIN-SUFFIX,appinn.net
