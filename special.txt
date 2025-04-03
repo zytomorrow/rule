@@ -1,9 +1,9 @@
 # 一些特殊的需要代理的站点
 
 # 18R
-DOMAIN-SUFFIX,metacubex.o
+DOMAIN-SUFFIX,metacubex.com
 DOMAIN-SUFFIX,buondua.com
-DOMAIN-SUFFIX,hanguo33.co
+DOMAIN-SUFFIX,hanguo33.com
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
 
