@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,hanguo33.com
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,ipornbase.com
 
 # 低端影视
 DOMAIN-SUFFIX,ddys.mov
