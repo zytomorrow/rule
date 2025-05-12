@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,appinn.net
 
 # 
 DOMAIN-SUFFIX,oomol.com
+
+# 
+DOMAIN-SUFFIX,homarr.dev
