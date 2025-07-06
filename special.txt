@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,oomol.com
 
 # 
 DOMAIN-SUFFIX,homarr.dev
+
+# ftp
+DOMAIN-SUFFIX,rwth-aachen.de
