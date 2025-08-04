@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,homarr.dev
 
 # ftp
 DOMAIN-SUFFIX,rwth-aachen.de
+
+# immortalwrt.org
+DOMAIN-SUFFIX,immortalwrt.org
