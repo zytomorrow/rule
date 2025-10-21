@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,ptlover.cc
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,ptskit.com
 DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,lemonhd.net
