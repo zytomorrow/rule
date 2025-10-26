@@ -3,6 +3,7 @@
 # 18R
 DOMAIN-SUFFIX,metacubex.com
 DOMAIN-SUFFIX,buondua.com
+DOMAIN-SUFFIX,buondua.us
 DOMAIN-SUFFIX,hanguo33.com
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
