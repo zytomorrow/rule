@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,rwth-aachen.de
 
 # immortalwrt.org
 DOMAIN-SUFFIX,immortalwrt.org
+
+# 虚拟卡服务商
+DOMAIN-SUFFIX,feiyangka.com
