@@ -42,3 +42,4 @@ DOMAIN-SUFFIX,feiyangka.com
 
 #esp
 DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,contabostorage.com
