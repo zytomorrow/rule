@@ -39,3 +39,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 
 # 虚拟卡服务商
 DOMAIN-SUFFIX,feiyangka.com
+
+#esp
+DOMAIN-SUFFIX,esp8266.com
