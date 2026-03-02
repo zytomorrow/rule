@@ -1,3 +1,9 @@
 # 部分直连节点
 
 DOMAIN-REGEX,^stun
+
+# 测试ip地址
+DOMAIN-SUFFIX,ddns.oray.com
+DOMAIN-SUFFIX,www.net.cn
+DOMAIN-SUFFIX,ip.3322.net
+DOMAIN-SUFFIX,ip.threep.top
