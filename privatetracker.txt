@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,ptskit.com
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,lemonhd.net
 DOMAIN-SUFFIX,haidan.cc
+DOMAIN-SUFFIX,hdvideo.top
