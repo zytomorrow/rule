@@ -14,3 +14,4 @@ DOMAIN,easytier.zytomorrow.top
 DOMAIN,onedrive_webhook.zytomorrow.top
 DOMAIN,fnos.zytomorrow.top
 DOMAIN,rustdesk.zytomorrow.top
+DOMAIN,zytomorrow.top
