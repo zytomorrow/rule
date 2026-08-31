@@ -46,3 +46,7 @@ DOMAIN-SUFFIX,contabostorage.com
 
 # https://framagit.org/fperrad/lua-Spore
 DOMAIN-SUFFIX,framagit.org
+
+
+# 
+DOMAIN-SUFFIX,gametdb.com
