@@ -50,3 +50,5 @@ DOMAIN-SUFFIX,framagit.org
 
 # 
 DOMAIN-SUFFIX,gametdb.com
+
+DOMAIN-SUFFIX,tvv.tw
