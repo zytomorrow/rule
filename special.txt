@@ -51,4 +51,15 @@ DOMAIN-SUFFIX,framagit.org
 # 
 DOMAIN-SUFFIX,gametdb.com
 
+# xiaoya
 DOMAIN-SUFFIX,tvv.tw
+DOMAIN-SUFFIX,emby.kaiserver.uk
+DOMAIN-SUFFIX,emby.xiaoya.pro
+DOMAIN-SUFFIX,emby-data.younv.at
+DOMAIN-SUFFIX,emby-data.xn--yetq23gxma.org
+DOMAIN-SUFFIX,icyou.eu.org
+DOMAIN-SUFFIX,emby.raydoom.tk
+DOMAIN-SUFFIX,emby-data.neversay.eu.org
+DOMAIN-SUFFIX,emby-data.poxi1221.eu.org
+DOMAIN-SUFFIX,emby-data.f1rst.top
+DOMAIN-SUFFIX,emby-data.ermaokj.cn
